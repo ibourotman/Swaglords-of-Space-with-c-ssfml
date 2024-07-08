@@ -1,0 +1,17 @@
+﻿  Bonus.cpp
+  Bullet.cpp
+  Enemy.cpp
+C:\Users\otmane\Downloads\Jeu-Game\Enemy.cpp(21,44): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+  Game.cpp
+C:\Users\otmane\Downloads\Jeu-Game\Game.cpp(44,117): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  GameManager.cpp
+  GameOver.cpp
+  guiplayerHpBar.cpp
+  guiPlayerPoints.cpp
+  LineEnemy.cpp
+  main.cpp
+  Player.cpp
+  SoundManager.cpp
+  Start.cpp
+  Generating Code...
+  Game.vcxproj -> C:\Users\otmane\Downloads\Jeu-Game\x64\Debug\Game.exe
